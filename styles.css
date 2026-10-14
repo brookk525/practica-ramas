@@ -3,3 +3,4 @@ body { font-family: sans-serif; background: white; }
 body { background: lightblue; }
 h1 { color: navy; }
 p { line-height: 1.5; }
+.proyecto-card { border-radius: 8px; }
